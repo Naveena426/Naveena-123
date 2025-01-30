@@ -440,5 +440,20 @@ Estimated Time: 684.09 seconds (11 minutes 24 seconds)
 Generating 2D plot...
 Gnuplot opened. Drone path plotted.
 
+2Ans) output:
+Enter the number of path sets: 2
+
+Enter start (x, y, z) for path 1: 0 0 0
+Enter end (x, y, z) for path 1: 10 10 10
+Reached the goal at (10, 10, 10)
+The cost for this path is: 45
+
+Enter start (x, y, z) for path 2: 5 5 5
+Enter end (x, y, z) for path 2: 20 20 20
+Reached the goal at (20, 20, 20)
+The cost for this path is: 78
+
+Pathfinding complete.
+
 
 
