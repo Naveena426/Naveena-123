@@ -409,5 +409,36 @@ Features & Optimizations:
 4:Can be optimized further with multi-threading or Dijkstra for dense obstacles.
 
 
+1Ans output:
+Uploading mission waypoints...
+Waypoint 0 sent: (37.774900, -122.419400, 100m)
+Waypoint 1 sent: (37.775500, -122.420000, 100m)
+Waypoint 2 sent: (37.776000, -122.421000, 100m)
+Waypoint 3 sent: (37.777000, -122.422000, 100m)
+Waypoint 4 sent: (37.778000, -122.423000, 100m)
+Waypoint 5 sent: (37.779000, -122.424000, 100m)
+Waypoint 6 sent: (37.780000, -122.425000, 100m)
+Waypoint 7 sent: (37.781000, -122.426000, 100m)
+Waypoint 8 sent: (37.782000, -122.427000, 100m)
+Waypoint 9 sent: (37.783000, -122.428000, 100m)
+Waypoint 10 sent: (37.784000, -122.429000, 100m)
+Waypoint 11 sent: (37.785000, -122.430000, 100m)
+Waypoint 12 sent: (37.786000, -122.431000, 100m)
+Waypoint 13 sent: (37.787000, -122.432000, 100m)
+Waypoint 14 sent: (37.788000, -122.433000, 0m) [Landing]
+
+Inserting perpendicular waypoint after 10th...
+New perpendicular waypoint added at: (37.784900, -122.429900, 100m)
+
+Setting AUTO mode...
+AUTO mode activated.
+
+Calculating remaining distance and estimated time...
+Remaining Distance: 3420.45 meters
+Estimated Time: 684.09 seconds (11 minutes 24 seconds)
+
+Generating 2D plot...
+Gnuplot opened. Drone path plotted.
+
 
 
